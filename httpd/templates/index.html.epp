@@ -1,0 +1,2 @@
+Hello World! My ipaddress is <%= $facts['ipaddress'] %>. My message is <%= $message %>.
+ 
